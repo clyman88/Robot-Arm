@@ -2,9 +2,9 @@
 
 This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot Arm.
 
-#Planning:# 
+## Planning:
 
-_Brainstorm_
+## _Brainstorm_
 1. *Robot arm that you can interact with*
    1. High five
    1. Rock paper scissors 
