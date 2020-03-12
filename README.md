@@ -27,3 +27,11 @@ This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot 
   * Rack and pinion system switch through diffrent condiments 
   
 # Schedule/Plans Per Week 
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+
+
