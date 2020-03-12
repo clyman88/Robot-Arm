@@ -28,10 +28,11 @@ This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot 
   
 # Schedule/Plans Per Week 
 
+### Week of 2/3/20
 
 |           | Completed     | Working on     |
 | ----------|:-------------:| --------------:|
-| Solidworks| right-aligned |                |
-| Code      | centered      |                |
+| Solidworks|               |                |
+| Code      |               |                |
 
 
