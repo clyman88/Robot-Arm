@@ -29,9 +29,9 @@ This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot 
 # Schedule/Plans Per Week 
 
 
-| Tables        | Are           | Cool  |
+|               | Completed     | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| Solidworks    | right-aligned | $1600 |
+| Code          | centered      |   $12 |
 
 
