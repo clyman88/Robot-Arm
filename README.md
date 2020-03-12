@@ -1,4 +1,4 @@
-# Robot Arm README.md
+# Robot Arm README.md Planning Sheet
 
 This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot Arm.
 
