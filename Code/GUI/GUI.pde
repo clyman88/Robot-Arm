@@ -198,9 +198,9 @@ void keyPressed() {
       selector_y = height * .35;
       selector_x = width*.06;
 
-    } if ((selector_y <= height*.61)&&(selector_y >= height*.49)) {
+    } if (selector_y > height*.52 && selector_y < height*.87) {
       myPort.write("h");
-      command_sel = 7;
+      command_sel = 15;
       selector_y = height * .35;
       selector_x = width*.06;
     }
