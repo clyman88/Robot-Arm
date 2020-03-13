@@ -3,12 +3,12 @@
 This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot Arm.
 
 # Brainstorm
- **Robot arm that you can interact with**
+
+## Basic Project Ideas
   * High five
   * Rock paper scissors 
   * can wave(?)
   * plays fletch 
-  * Binder clip claw 
   * Gordan Ramsey Bot 
   * **Sandwich Maker** 
   
@@ -18,6 +18,7 @@ This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot 
   * Gears 
   * Pohotinterrupters 
   * Syrienges 
+  * Binder clip claw 
  
  ## Functions(s) 
   * Makes a sandwich
