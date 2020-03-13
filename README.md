@@ -30,7 +30,7 @@ This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot 
 
 ### First Week Planning 
   #### Monday 
-    * Brainstorming 
+  ..* Brainstorming   
 
 ### Week of 2/3/20
 
