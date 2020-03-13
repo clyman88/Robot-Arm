@@ -114,7 +114,7 @@ This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot 
 
 
 
-# Outlien Of Table 
+# Outline For Table 
 
 ### Week of 2/10/20 
 
