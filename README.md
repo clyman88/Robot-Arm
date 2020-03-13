@@ -53,6 +53,78 @@ This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot 
 |           | Completed     | Working on     |
 | ----------|:-------------:| --------------:|
 | Solidworks|Spatula and plate|Claw and condiment shaker|
+| Code      |Servo for condiment "squirter"|Spatula/plate code|
+
+### Week of 2/17/20 
+
+|           | Completed     | Working on     |
+| ----------|:-------------:| --------------:|
+| Solidworks|               |                |
 | Code      |               |                |
+
+### Week of 2/24/20 
+
+|           | Completed     | Working on     |
+| ----------|:-------------:| --------------:|
+| Solidworks|               |                |
+| Code      |               |                |
+
+### Week of 3/2/20 
+
+|           | Completed     | Working on     |
+| ----------|:-------------:| --------------:|
+| Solidworks|               |                |
+| Code      |               |                |
+
+### Week of 3/9/20 
+
+|           | Completed     | Working on     |
+| ----------|:-------------:| --------------:|
+| Solidworks|               |                |
+| Code      |               |                |
+
+### Week of 3/16/20 
+
+|           | Completed     | Working on     |
+| ----------|:-------------:| --------------:|
+| Solidworks|               |                |
+| Code      |               |                |
+
+### Week of 3/23/20 
+
+|           | Completed     | Working on     |
+| ----------|:-------------:| --------------:|
+| Solidworks|               |                |
+| Code      |               |                |
+
+
+### Week of 3/30/20 
+
+|           | Completed     | Working on     |
+| ----------|:-------------:| --------------:|
+| Solidworks|               |                |
+| Code      |               |                |
+
+
+
+
+
+
+
+
+
+
+# Outlien Of Table 
+
+### Week of 2/10/20 
+
+|           | Completed     | Working on     |
+| ----------|:-------------:| --------------:|
+| Solidworks|               |                |
+| Code      |               |                |
+
+
+
+
 
 
