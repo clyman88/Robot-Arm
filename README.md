@@ -26,17 +26,33 @@ This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot 
   * Syreinge pushes condiments out 
   * Rack and pinion system switch through diffrent condiments 
   
+  ## Input 
+   * Gui from processing 
+        * Diffrent Commands you could give it 
+   * Concept ideas: 
+        * For any input the user gives: 
+  
 # Schedule/Plans Per Week 
 
-### First Week Planning 
+### Week 1/27/20 Planning 
   #### Monday 
-  * Brainstorming   
+   * Brainstorming  
+  
+  #### Tuesday(block day)  
+   * Brainstorming 
+   * Basic solidworks design 
 
+  #### Thursday 
+   * Proposed to Dr.Shields 
+   
+   #### Friday 
+   * Start some basic code and continue on solidoworks basic design
+   
 ### Week of 2/3/20
 
 |           | Completed     | Working on     |
 | ----------|:-------------:| --------------:|
-| Solidworks|               |                |
+| Solidworks|Spatula and plate|Claw and condiment shaker|
 | Code      |               |                |
 
 
