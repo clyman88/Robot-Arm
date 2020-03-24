@@ -88,8 +88,8 @@ This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot 
 
 |           | Completed     | Working on     |
 | ----------|:-------------:| --------------:|
-| Solidworks|               |                |
-| Code      |               |                |
+| Solidworks|    :(         |      :(        |
+| Code      |    Coronavirus|Washing hands   |
 
 ### Week of 3/23/20 
 
@@ -104,7 +104,7 @@ This is the repo for all Robot Arm files from Jordan, Jackson, and Cole's Robot 
 |           | Completed     | Working on     |
 | ----------|:-------------:| --------------:|
 | Solidworks|    :(         |      :(        |
-| Code      |               |                |
+| Code      |    Coronavirus|Washing hands   |
 
 
 
